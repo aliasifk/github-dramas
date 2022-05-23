@@ -5,6 +5,7 @@
 > Last update: 18 March 2022
 
 ## 2022
+[May 23, 2022 | Politics ] [obs](https://github.com/obsproject/obs-studio/pull/2868#issuecomment-1134053984)
 
 [March 16, 2022 | Controversial | Politics] [vue-cli](https://github.com/vuejs/vue-cli) [node-ipc](https://github.com/RIAEvangelist/node-ipc) - vue-cli dependency on node-ipc potentially overwrites user files
 * Main issue on vue-cli to warn users about the impact: https://github.com/vuejs/vue-cli/issues/7054
